@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-MAINTAINER behdad.222 <behdad.222@gmail.com>
+MAINTAINER miladheydari <miladheydari2011@gmail.com>
 
 ARG SDK_TOOLS_VERSION=6514223
 ARG GRADLE_VERSION=6.7
